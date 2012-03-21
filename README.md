@@ -1,0 +1,1 @@
+Copying a template used by [jaw6](github.com/jaw6) to do future presentations with HTML, CSS, and JavaScript. Added JavaScript to switch slides on right/left arrow in hopes of using clicker.
